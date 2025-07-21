@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=halimegokmen" alt="halimegokmen" /></a> </p>
 
-- 🎓 **Research Assistant** at Ege University Statistics Department
 - 🔭 I'm currently working on **Statistical Analysis and Machine Learning projects**
 - 🌱 I'm currently learning **Deep Learning, NLP, and Advanced Statistical Methods**
 - 👯 I'm looking to collaborate on **Statistical Research and ML projects**
