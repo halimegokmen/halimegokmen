@@ -1,4 +1,3 @@
-# halimegokmen.github.io
 <h1 align="center">Hi 👋, I'm Halime GÖKMEN</h1>
 <h3 align="center">Research Assistant at Ege University Statistics Department & Data Science Enthusiast</h3>
 
